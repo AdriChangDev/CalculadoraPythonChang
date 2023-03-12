@@ -25,4 +25,5 @@ Miexception(Exception)
 Esta es una clase de excepción personalizada que se utiliza en el código para manejar errores.
 
 **Créditos**
+
 Este código fue escrito por Adrian Chang  
